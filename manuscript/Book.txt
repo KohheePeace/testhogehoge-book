@@ -1,7 +1,3 @@
-# Title at the beginning of a line
-
 chapter1.md
-
-# Hogehoge
 chapter2.txt
 chapter3.txt

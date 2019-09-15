@@ -16,3 +16,7 @@ In the following chapters you'll see some simple examples of how to format your 
 ```js
 console.log('hello chap1');
 ```
+
+# Chapter 1.1
+This is a chapter1.1
+What do you think about hogehoge ?

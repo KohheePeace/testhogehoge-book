@@ -1,5 +1,7 @@
-# Section 1
+# Title at the beginning of a line
+
 chapter1.md
-# Section 2
+
+# Hogehoge
 chapter2.txt
 chapter3.txt

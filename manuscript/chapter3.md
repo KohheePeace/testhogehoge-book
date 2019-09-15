@@ -7,3 +7,8 @@ If you switch to writing in the Markua syntax instead of Leanpub-Flavored Markdo
 If there is anything simple that you think we should add, please email us at <hello@leanpub.com>.
 
 We recommend you take a few minutes to explore all the options in the Book Tools menu for your book on Leanpub. We've built a lot of powerful features that can help you write and sell your book!
+
+## Chapter 3-1
+This is a test title 3-1.
+
+### Chapter 3-1-1
